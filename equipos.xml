@@ -1,0 +1,35 @@
+<inventario>
+    <equipo>
+        <id>1</id>
+        <tipo>PC</tipo>
+        <marca>ASUS</marca>
+        <modelo>ROG</modelo>
+        <numeroSerie>19855XPZ</numeroSerie>
+        <ubicacion>Laboratorio Informática</ubicacion>
+        <asignadoA>Charly Duarte</asignadoA>
+        <estado>En Mantenimiento</estado>
+        <fechaCompra>2022-08-10</fechaCompra>
+    </equipo>
+    <equipo>
+        <id>2</id>
+        <tipo>Laptop</tipo>
+        <marca>ASUS</marca>
+        <modelo>TUF</modelo>
+        <numeroSerie>00157DSH</numeroSerie>
+        <ubicacion>Recursos Humanos</ubicacion>
+        <asignadoA>Byron Castañeda</asignadoA>
+        <estado>Activo</estado>
+        <fechaCompra>2022-10-10</fechaCompra>
+    </equipo>
+    <equipo>
+        <id>3</id>
+        <tipo>Laptop</tipo>
+        <marca>ASUS</marca>
+        <modelo>VIVOBOOK</modelo>
+        <numeroSerie>55569LAB</numeroSerie>
+        <ubicacion>Recursos Humanos</ubicacion>
+        <asignadoA>Yuleisi Moreira</asignadoA>
+        <estado>Dado de Baja</estado>
+        <fechaCompra>2022-08-10</fechaCompra>
+    </equipo>
+</inventario>
