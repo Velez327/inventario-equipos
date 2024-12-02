@@ -1,0 +1,19 @@
+[
+    {
+      "usuario": "admin",
+      "password": "1234"
+    },
+    {
+      "usuario": "pvelez",
+      "password": "abcd"
+    },
+    {
+        "usuario": "ymoreira",
+        "password": "4455"
+    },
+    {
+        "usuario": "alextsh",
+        "password": "3388"
+    }
+  ]
+  
